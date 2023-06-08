@@ -1,1 +1,1 @@
-# cv-clustering
+# Computer Vision Clustering
